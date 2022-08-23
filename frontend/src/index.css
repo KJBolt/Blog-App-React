@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+html {
+
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+
+body {
+  margin: 0;
+  overflow-y: auto
+}
+
